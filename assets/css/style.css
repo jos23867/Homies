@@ -1,0 +1,55 @@
+* {
+  padding: 1px;
+}
+
+footer {
+  text-align: center;
+}
+
+.fa {
+  padding: 5px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 2px 2px;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3b5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55acee;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+.homies {
+  color: black;
+}
+button {
+  float: right;
+  padding-right: 25px;
+}
+
+#history-div {
+  background-color: chartreuse;
+}
+#last-visit-date {
+  font-weight: bold;
+}
+#last-visit-keyword {
+  font-weight: bold;
+}
+#last-visit-location {
+  font-weight: bold;
+}
